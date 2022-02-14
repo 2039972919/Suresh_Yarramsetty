@@ -5,6 +5,7 @@ Data science portfolio
 Holds Bachelors in Electrical engineering
 
 **professional experience**:
+
 PROJECT DETAILS : Tata Consultancy services	
 Client	        : Thomson Reuters
 Environment/Skills : Windows 10,SAP Logon, SQL Server.
@@ -13,11 +14,13 @@ Project Title     :   SAP Products Onboarding/AMS/SAP Entitlement.
 Description      :   SAP products onboarding is to develop and maintain products to fetch the data of the customers and to provide third party software for the frontend. AMS       project supports all the bugs & production defects and will resolve the issue through code fix using Jira tool. SAP entitlement is to create invoices using Smart forms and scripts and also to maintain documentation.
 
 **Technical profile**:
+
 Programming Languages: SAP Abap,S/4 Hana, SAP PI,Python and SQL.
 Operating System: Windows, Linux, Unix.
 Defect Tracking Tools: SAP Logon, Jira.
 
 **Data Science Project**
+
 [Prediction of Age & Gender through Deep Learning.](https://2039972919.github.io/Suresh_Yarramsetty/)
 
 
